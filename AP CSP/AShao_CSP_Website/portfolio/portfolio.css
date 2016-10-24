@@ -1,0 +1,58 @@
+body{
+	font-family:"Comic Sans", fantasy;
+	color:4FFF33;
+    text-align:center; 
+	}
+
+h1 {
+	font-size: 2em;
+	text-align:center;
+}
+
+p1 { 
+    font-size: 2em;
+	text-align:center;
+	font-family:"Comic Sans", fantasy;
+	color:#581845   ;
+	}
+	
+
+  
+ p2 {
+	 font-size: 2em;
+	font-family:"Comic Sans", fantasy;
+	color:#581845   ;
+	text-align: center}
+
+  p3{
+	font-size: 2em;
+	font-family:"Comic Sans", fantasy;
+	color:#DD33FF ;
+	text-align: center}
+	
+	p4{
+	font-size: 2em;
+	font-family:"Comic Sans", fantasy;
+	color:#FF3377 ;
+	text-align: center }
+	
+table {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	border-collapse: collapse;
+	cellspacing: 0px;
+}
+
+tr {
+	border: 1px solid #ffffff;
+	text-align: center;
+	background-color:#9FB6CD; 
+}
+
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: #003366;
+}
+
